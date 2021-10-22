@@ -2,7 +2,9 @@
 1. cari ttg PYTHON.\
 Python merupakan bahasa pemrograman tingkat tinggi dan dapat melakukan eksekusi sejumlah instruksi multi guna secara langsung (interpretatif) dengan metode orientasi objek serta digunakan untuk mengembangkan situs web, algoritma dan menyederhanakan proses otomatisasi.
 2. apa itu Pemrograman Language, dan sebutkan contoh.?
+Sistem komunikasi yang digunakan dalam memerintahkan komputer secara langsung untuk menjalankan perintah khusus. Contohnya:Python, C++, Java, JavaScript. 
 3. perbedaan dari Markup Language apa? dan sebutkan contoh.?
+Markup Language merupakan bahasa berupa tags sebagai cara seorang programmer situs menggambarkan suatu website.contohnya:HTML,XHTML,XML.
 4. perbedaan pemrograman konvensional dan visual. dan sebutkan contoh.?
 5. perbedaan dari hard code dan soft code. dan sebutkan contoh.?
 6. perbedaan interpreter dan compailer. dan sebutkan contoh.?
