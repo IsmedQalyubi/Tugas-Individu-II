@@ -21,6 +21,16 @@ Soft code adalah pengkodean komputer yang mengacu pada memperoleh nilai atau fun
 Perbedaannya adalah ketika menggunakan compiler, kode sumber akan dikonversi menjadi machine code (membuat berkas executable) sebelum program tersebut dijalankan.Contoh PL yang menggunakan Compiler:Visual Basic,Pascal, C++.Sedangkan interpreter mengonversi source code menjadi machine code secara langsung ketika program dijalankan.Contoh PL yg menggunakan interpreter:
 Python, PHP. 
 7. perbedaan python dengan PL lainnya.?
+Program yang ditulis menggunakan Python dapat dijalankan di hampir semua sistem operasi (Unix, Windows, Mac OS X, dll) dan Python syntaxnya tidak menggunakan titik koma diakhir kode dan juga tidak menggunakan kurawal untuk block program melainkan menggunakan tab. 
 8. perbedaan IDE dan Text Editor? contoh.?
-9. sebutkan IDE khusus untuk python dan text editor untuk python ?
-10. perbedaan bahasa natural, algoritma, flowchart, dan pseudocode.?
+IDE adalah perangkat lunak yang menyediakan beberapa fasilitas untuk pengembangan aplikasi software, di antaranya meliputi source code editor, debugger, dan juga fitur code completion, beberapa IDE juga terdapat compiler di dalamnya.Contoh:Visual studio, Dev-C++.\
+Text Editor adalah perangkat lunak yang memungkinkan untuk menulis dan mengedit teks. Text editor tidak memiliki fitur bawaan apapun yang dapat membantu penulisan kode.Contoh:Notepad++, Sublime Text, Atom. 
+9. Sebutkan IDE khusus untuk python dan text editor untuk python? 
+IDE :Visual studio Code,Jupyter, PycharmPycharm, Pydev. 
+Text editor:Visual studio Code. 
+10. perbedaan bahasa natural, algoritma, flowchart, dan pseudocode.?\
+Bahasa natural:menggunakan bahasa manusia/bahasa alami. \
+Algoritma : langkah-langkah/metode.\
+Flowchart : Bagan alur/proses.\
+Pseudocode : menggunakan bahasa program.
+
