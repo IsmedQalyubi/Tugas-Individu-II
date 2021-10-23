@@ -25,8 +25,8 @@ Program yang ditulis menggunakan Python dapat dijalankan di hampir semua sistem 
 8. perbedaan IDE dan Text Editor? contoh.?
 IDE adalah perangkat lunak yang menyediakan beberapa fasilitas untuk pengembangan aplikasi software, di antaranya meliputi source code editor, debugger, dan juga fitur code completion, beberapa IDE juga terdapat compiler di dalamnya.Contoh:Visual studio, Dev-C++.\
 Text Editor adalah perangkat lunak yang memungkinkan untuk menulis dan mengedit teks. Text editor tidak memiliki fitur bawaan apapun yang dapat membantu penulisan kode.Contoh:Notepad++, Sublime Text, Atom. 
-9. Sebutkan IDE khusus untuk python dan text editor untuk python? 
-IDE :Visual studio Code,Jupyter, PycharmPycharm, Pydev. 
+9. Sebutkan IDE khusus untuk python dan text editor untuk python? \
+IDE :Visual studio Code,Jupyter, PycharmPycharm, Pydev. \
 Text editor:Visual studio Code. 
 10. perbedaan bahasa natural, algoritma, flowchart, dan pseudocode.?\
 Bahasa natural:menggunakan bahasa manusia/bahasa alami. \
